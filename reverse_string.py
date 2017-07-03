@@ -6,7 +6,7 @@ def reverse(text):
     
     while length-1>=0:
         rv=rv+text[length-1]
-        length-=1
+        length=length-1
     print (rv)    
         
    
