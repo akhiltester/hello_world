@@ -1,6 +1,6 @@
 def reverse(text):
     length= len(text)
-    print (length)
+    print ("The length of the string is: ",length) #text added
     y=0
     rv=""
     
